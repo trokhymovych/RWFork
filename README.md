@@ -1,7 +1,7 @@
 # RWK_research
 
-Repository that includes the code for experiments for paper 
-"Characterizing Knowledge Manipulation in a Russian Wikipedia Clone"
+A repository that includes the code for experiments for paper 
+"Characterizing Knowledge Manipulation in a Russian Wikipedia Fork"
 
 ## Structure: 
 - **01-relevance_evaluation.ipynb** code used for answering *RQ1* (Evaluating the RELEVANCE OF CHANGED ARTICLES).
