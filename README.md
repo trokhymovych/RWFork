@@ -10,4 +10,4 @@ A repository that includes the code for experiments for paper
 - **04-geospatial_topic_analysis_references.ipynb** code for analysis of patterns in categories, topics, locations. (*RQ2*)
 - **05-iterative_clustering.ipynb** code for clustering changes and defining changes taxonomy. (*RQ3*)
 
-Data collection scripts and data itself will be published later. 
+Data will be published after acceptance. 
