@@ -9,9 +9,7 @@ A repository that includes the code for experiments for paper "Characterizing Kn
 
 In the paper, we analyze the edits made by editors of the Russian Wikipedia Fork (RWFork, ruwiki.ru) to the original Russian Wikipedia articles between May and September 2023.
 
-The code include the notebooks used to obtained the results presented in the paper.
-
-The final dataset, that cn be used for further analysis, is available at TDB.
+The final curated and published dataset is available at TBD.
 
 <br clear="all" />
 
