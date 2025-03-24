@@ -1,6 +1,6 @@
 # RWFork Knowledge Manipulation Analysis
 
-<img align="left" src="figures/resear_question_scketch.png" alt="scketch" style="width:300px;"/>
+<img align="left" src="figures/resear_question_scketch.png" alt="scketch" style="width:400px;"/>
 
 <!-- <img align="left" src="figures/rumap.png" alt="locations of changed articles" style="width:400px;"/>
 <img align="left" src="figures/temporal_edits.png" alt="temporal patterns in data" style="width:400px;"/> -->
