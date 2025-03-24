@@ -2,6 +2,9 @@
 
 <img align="left" src="figures/resear_question_scketch.png" alt="scketch" style="width:300px;"/>
 
+<!-- <img align="left" src="figures/rumap.png" alt="locations of changed articles" style="width:400px;"/>
+<img align="left" src="figures/temporal_edits.png" alt="temporal patterns in data" style="width:400px;"/> -->
+
 A repository that includes the code for experiments for paper "Characterizing Knowledge Manipulation in a Russian Wikipedia Fork" accepted to ICWSM'25. 
 
 In the paper, we analyze the edits made by editors of the Russian Wikipedia Fork (RWFork, ruwiki.ru) to the original Russian Wikipedia articles between May and September 2023.
@@ -10,12 +13,6 @@ The code include the notebooks used to obtained the results presented in the pap
 
 The final dataset, that cn be used for further analysis, is available at TDB.
 
----
-
-<img align="left" src="figures/rumap.png" alt="locations of changed articles" style="width:400px;"/>
-<img align="left" src="figures/temporal_edits.png" alt="temporal patterns in data" style="width:400px;"/>
-
----
 <br clear="all" />
 
 ## Structure: 
