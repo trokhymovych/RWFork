@@ -9,7 +9,7 @@ A repository that includes the code for experiments for paper "Characterizing Kn
 
 In the paper, we analyze the edits made by editors of the Russian Wikipedia Fork (RWFork, ruwiki.ru) to the original Russian Wikipedia articles between May and September 2023.
 
-The final curated and published dataset is available at TBD.
+The final curated dataset is available at - Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15073728.svg)](https://doi.org/10.5281/zenodo.15073728)
 
 <br clear="all" />
 
