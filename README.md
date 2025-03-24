@@ -4,15 +4,19 @@
 
 A repository that includes the code for experiments for paper "Characterizing Knowledge Manipulation in a Russian Wikipedia Fork" accepted to ICWSM'25. 
 
-In particular we analyze the edits made by editors of the Russian Wikipedia Fork (RWFork, ruwiki.ru) to the original Russian Wikipedia articles between May and September 2023.
-The code include the notebooks used to obtained the statistics presented in the paper along. Data collection logic will not be published due to ethical concerns. 
+In the paper, we analyze the edits made by editors of the Russian Wikipedia Fork (RWFork, ruwiki.ru) to the original Russian Wikipedia articles between May and September 2023.
+
+The code include the notebooks used to obtained the results presented in the paper.
+
+The final dataset, that cn be used for further analysis, is available at TDB.
 
 ---
 
-<img align="left" src="figures/rumap.png" alt="locations of changed articles" style="width:300px;"/>
-<img align="right" src="figures/temporal_edits.png" alt="temporal patterns in data" style="width:300px;"/>
+<img align="left" src="figures/rumap.png" alt="locations of changed articles" style="width:400px;"/>
+<img align="left" src="figures/temporal_edits.png" alt="temporal patterns in data" style="width:400px;"/>
 
 ---
+<br clear="all" />
 
 ## Structure: 
 - **01-relevance_evaluation.ipynb** code used for answering *RQ1* (Evaluating the RELEVANCE OF CHANGED ARTICLES).
