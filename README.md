@@ -1,7 +1,18 @@
-# RWK_research
+# RWFork Knowledge Manipulation Analysis
 
-A repository that includes the code for experiments for paper 
-"Characterizing Knowledge Manipulation in a Russian Wikipedia Fork"
+<img align="left" src="figures/resear_question_scketch.png" alt="scketch" style="width:300px;"/>
+
+A repository that includes the code for experiments for paper "Characterizing Knowledge Manipulation in a Russian Wikipedia Fork" accepted to ICWSM'25. 
+
+In particular we analyze the edits made by editors of the Russian Wikipedia Fork (RWFork, ruwiki.ru) to the original Russian Wikipedia articles between May and September 2023.
+The code include the notebooks used to obtained the statistics presented in the paper along. Data collection logic will not be published due to ethical concerns. 
+
+---
+
+<img align="left" src="figures/rumap.png" alt="locations of changed articles" style="width:300px;"/>
+<img align="right" src="figures/temporal_edits.png" alt="temporal patterns in data" style="width:300px;"/>
+
+---
 
 ## Structure: 
 - **01-relevance_evaluation.ipynb** code used for answering *RQ1* (Evaluating the RELEVANCE OF CHANGED ARTICLES).
@@ -9,5 +20,3 @@ A repository that includes the code for experiments for paper
 - **03-temporal-analysis.ipynb** code for temporal patterns analysis in editing activity. (*RQ2*)
 - **04-geospatial_topic_analysis_references.ipynb** code for analysis of patterns in categories, topics, locations. (*RQ2*)
 - **05-iterative_clustering.ipynb** code for clustering changes and defining changes taxonomy. (*RQ3*)
-
-Data will be published after acceptance. 
