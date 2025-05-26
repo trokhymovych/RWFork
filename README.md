@@ -19,3 +19,19 @@ The final curated dataset is available at - Zenodo: [![DOI](https://zenodo.org/b
 - **03-temporal-analysis.ipynb** code for temporal patterns analysis in editing activity. (*RQ2*)
 - **04-geospatial_topic_analysis_references.ipynb** code for analysis of patterns in categories, topics, locations. (*RQ2*)
 - **05-iterative_clustering.ipynb** code for clustering changes and defining changes taxonomy. (*RQ3*)
+
+# 📚 Cite This Work
+
+```
+@misc{trokhymovych2025characterizingknowledgemanipulationrussian,
+      title={Characterizing Knowledge Manipulation in a Russian Wikipedia Fork}, 
+      author={Mykola Trokhymovych and Oleksandr Kosovan and Nathan Forrester and Pablo Aragón and Diego Saez-Trumper and Ricardo Baeza-Yates},
+      year={2025},
+      eprint={2504.10663},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2504.10663}, 
+}
+```
+
+📄 You can also use the `CITATION.cff` file for citation tools like GitHub's "Cite this repository" button.

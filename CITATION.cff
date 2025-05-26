@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the following metadata."
+title: "Characterizing Knowledge Manipulation in a Russian Wikipedia Fork"
+authors:
+  - family-names: Trokhymovych
+    given-names: Mykola
+  - family-names: Kosovan
+    given-names: Oleksandr
+  - family-names: Forrester
+    given-names: Nathan
+  - family-names: Aragón
+    given-names: Pablo
+  - family-names: Saez-Trumper
+    given-names: Diego
+  - family-names: Baeza-Yates
+    given-names: Ricardo
+date-released: 2025-04-22
+identifiers:
+  - type: arXiv
+    value: 2504.10663
+  - type: url
+    value: https://arxiv.org/abs/2504.10663
+type: article
+license: "arXiv"
